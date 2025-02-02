@@ -1,0 +1,19 @@
+.converter-box {
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 10px;
+    background: white;
+}
+.nav-tabs .nav-link {
+    font-weight: bold;
+    color: black;
+}
+.nav-tabs .nav-link.active {
+    color: blue;
+    text-decoration: underline;
+}
+.btn-custom {
+    border: 1px solid black;
+    background: white;
+    font-weight: bold;
+}
